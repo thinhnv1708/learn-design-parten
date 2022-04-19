@@ -1,0 +1,1 @@
+{"version":3,"file":"TurnOffCommand.js","sourceRoot":"","sources":["../../src/Base/TurnOffCommand.ts"],"names":[],"mappings":";;AAGA,MAAqB,cAAc;IAG/B,YAAY,GAAQ;QAChB,IAAI,CAAC,GAAG,GAAG,GAAG,CAAA;IAClB,CAAC;IAEM,OAAO;QACV,IAAI,CAAC,GAAG,CAAC,OAAO,EAAE,CAAA;IACtB,CAAC;IAEM,IAAI;QACP,IAAI,CAAC,GAAG,CAAC,MAAM,EAAE,CAAA;IACrB,CAAC;CACJ;AAdD,iCAcC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"TurnOnCommand.js","sourceRoot":"","sources":["../../src/Base/TurnOnCommand.ts"],"names":[],"mappings":";;AAGA,MAAqB,aAAa;IAG9B,YAAY,GAAQ;QAChB,IAAI,CAAC,GAAG,GAAG,GAAG,CAAA;IAClB,CAAC;IAEM,OAAO;QACV,IAAI,CAAC,GAAG,CAAC,MAAM,EAAE,CAAA;IACrB,CAAC;IAEM,IAAI;QACP,IAAI,CAAC,GAAG,CAAC,OAAO,EAAE,CAAA;IACtB,CAAC;CACJ;AAdD,gCAcC"}
