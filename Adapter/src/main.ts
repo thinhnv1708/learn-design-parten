@@ -30,4 +30,4 @@ class LegacyRect {
     }
 }
 
-const shapes: IShape[] = [new LineAdapter()]
+const shapes: IShape[] = [new LineAdapter(new LegacyLine())]
